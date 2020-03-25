@@ -270,7 +270,6 @@ var Prices = /*#__PURE__*/function (_React$Component) {
       var _this2 = this;
 
       return __jsx("div", {
-        className: "container",
         __self: this,
         __source: {
           fileName: _jsxFileName,

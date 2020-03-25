@@ -321,7 +321,6 @@ class Prices extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Component {
 
   render() {
     return __jsx("div", {
-      className: "container",
       __self: this,
       __source: {
         fileName: _jsxFileName,
