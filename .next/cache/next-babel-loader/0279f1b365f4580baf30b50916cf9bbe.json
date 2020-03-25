@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from \"react\";\n/**\n * @author\n * @function Notification\n **/\n\nconst Notification = props => {\n  return __jsx(\"div\", null, \"Notification\");\n};\n\nexport default Notification;","map":null,"metadata":{},"sourceType":"module"}
