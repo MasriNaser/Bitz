@@ -11,7 +11,7 @@ const Layout = props => (
       />
     </Head>
     <Navbar />
-    {props.childeren}
+    {props.children}
   </div>
 );
 export default Layout;
